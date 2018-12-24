@@ -1,0 +1,2 @@
+# HWinfo
+Available hardwares
